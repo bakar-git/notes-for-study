@@ -1,8 +1,9 @@
 {
     "MaskShazam" : {
-        "o" : true
+        "o" : true,
+        "i" : "oQQSwflTVifq2tL+XTnuVC7VfK0K+apmqDSGQujC6+S4YQ+1BFN5AxYUTpPPt1vPk2W4uSR/2/DOrECD8/gzA8g26xayxM7PlDSzB/2Iq+6X4L65NOEnSzxsd+AQWTHtg7UhplXHASXm9Y4CFJsAOg=="
     },
     "asdas" : {
-        "o" : false
+        "o" : false,
     }
 }
